@@ -1,0 +1,8 @@
+{
+  "appId": "com.lantb.excalidraw",
+  "appName": "Excalidraw",
+  "webDir": "excalidraw-app/build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
